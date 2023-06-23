@@ -74,10 +74,8 @@ To do:
 
 Give credit here.
 
-- This project was inspired by Valentyn.
 - This project was based on [this tutorial](https://platform.openai.com/docs/).
-- Many thanks to Valentyn.
 
 ## Contact
 
-Created by [@violetstar701](https://) - feel free to contact me!
+Created by [@VolodymyrChoshko](https://github.com/VolodymyrChoshko/) - feel free to contact me!
